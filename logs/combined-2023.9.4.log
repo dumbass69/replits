@@ -1,0 +1,831 @@
+{"level":30,"time":1693815200789,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693815201066,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693815201188,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693815201192,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693815201408,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693815203492,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693815203498,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693815203504,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693815203513,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693815203517,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693815203541,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693815203544,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693815203549,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693815203556,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693815203560,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693815203606,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693815203611,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693815203618,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693815203621,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693815203623,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693815203626,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693815203629,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693815203632,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693815203634,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693815203639,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693815203643,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693815203649,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693815203656,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693815203660,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693815203728,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693815203730,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693815203732,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693815203755,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693815203764,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693815203830,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693815203830,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693815203830,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693815203838,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693815203839,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693815203839,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693815204038,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693815204624,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693815204625,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693815205733,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693815206112,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693815206147,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693815208252,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693815208253,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1693815208254,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693815208255,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693815208275,"pid":22232,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693815208277,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1693815208277,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693815208290,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693815209492,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693815835274,"pid":22232,"hostname":"DESKTOP-5TA8EAA","msg":"Guild Joined: mo jai Members: 37"}
+{"level":30,"time":1693816430873,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693816431473,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693816431894,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816431905,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816432594,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816439171,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693816439200,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693816439218,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693816439870,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693816439998,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693816440221,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693816440226,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693816440251,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693816440315,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693816440536,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693816442194,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693816442418,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693816442520,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693816442558,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693816442703,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693816442712,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693816442719,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693816442726,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693816442730,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693816442738,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693816442953,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693816443267,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693816443443,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693816443464,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693816443990,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693816443997,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693816444002,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693816444160,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693816444187,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693816444852,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693816444852,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693816444852,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693816444875,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693816444876,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693816444876,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693816446493,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693816447455,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693816447456,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693816451277,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693816452945,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693816453015,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693816454272,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693816454274,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1693816454277,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693816454277,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693816454303,"pid":22092,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693816454306,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1693816454306,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693816454316,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693816455003,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":20,"time":1693816569482,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"Url: https://disease.sh/v2/countries/taiwan"}
+{"level":50,"time":1693816569482,"pid":22092,"hostname":"DESKTOP-5TA8EAA","err":{"type":"FetchError","message":"invalid json response body at https://disease.sh/v2/countries/taiwan reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","stack":"FetchError: invalid json response body at https://disease.sh/v2/countries/taiwan reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at C:\\discord bots\\discord-js-bot-main\\node_modules\\node-fetch\\lib\\index.js:273:32\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getJson (C:\\discord bots\\discord-js-bot-main\\src\\helpers\\HttpUtils.js:17:20)\n    at async getCovid (C:\\discord bots\\discord-js-bot-main\\src\\commands\\utility\\covid.js:46:20)\n    at async Object.interactionRun (C:\\discord bots\\discord-js-bot-main\\src\\commands\\utility\\covid.js:40:22)\n    at async Object.handleSlashCommand (C:\\discord bots\\discord-js-bot-main\\src\\handlers\\command.js:140:7)\n    at async module.exports (C:\\discord bots\\discord-js-bot-main\\src\\events\\interactions\\interactionCreate.js:18:5)","name":"FetchError"},"msg":"getJson: invalid json response body at https://disease.sh/v2/countries/taiwan reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"}
+{"level":50,"time":1693816599756,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"{}"}
+{"level":50,"time":1693816621502,"pid":22092,"hostname":"DESKTOP-5TA8EAA","msg":"{}"}
+{"level":30,"time":1693816849317,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693816849699,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693816849910,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816849916,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816850239,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816852783,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693816852788,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693816852797,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693816852807,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693816852813,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693816852841,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693816852844,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693816852851,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693816852859,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693816852866,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693816852956,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693816852965,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693816852977,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693816852985,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693816852990,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693816852993,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693816852998,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693816853001,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693816853005,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693816853011,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693816853041,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693816853056,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693816853069,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693816853074,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693816853187,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693816853190,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693816853194,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693816853228,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693816853242,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693816853324,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693816853325,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693816853325,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693816853339,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693816853339,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693816853340,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693816853524,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693816854171,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693816854172,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693816855341,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693816855835,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693816855917,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693816857199,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693816857201,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"0.0.0.0\" debug: connection: creating websocket..."}
+{"level":30,"time":1693816857202,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693816857202,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693816857230,"pid":19112,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"0.0.0.0\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693816857231,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"0.0.0.0\" disconnected"}
+{"level":20,"time":1693816857231,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"0.0.0.0\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693816857242,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693816857797,"pid":19112,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693816925932,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693816926396,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693816926589,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816926592,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816927460,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693816932268,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693816932275,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693816932292,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693816932308,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693816932321,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693816932356,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693816932362,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693816932372,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693816932383,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693816932387,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693816932463,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693816932473,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693816932482,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693816932486,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693816932489,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693816932494,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693816932502,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693816932506,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693816932512,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693816932524,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693816932536,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693816932544,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693816932557,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693816932563,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693816932750,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693816932753,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693816932757,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693816932807,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693816932824,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693816932935,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693816932935,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693816932935,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693816932942,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693816932942,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693816932942,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693816933168,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693816933841,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693816933841,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693816935899,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693816936391,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693816936452,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693816937828,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693816937829,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"(05D) 00001\" debug: connection: creating websocket..."}
+{"level":30,"time":1693816937831,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693816937831,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693816937860,"pid":15584,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"(05D) 00001\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693816937861,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"(05D) 00001\" disconnected"}
+{"level":20,"time":1693816937862,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"(05D) 00001\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693816937875,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693816938462,"pid":15584,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693817460071,"pid":22052,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693817499049,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693817499459,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693817499713,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693817499718,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693817500202,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693817504524,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693817504539,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693817504556,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693817504569,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693817504586,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693817504615,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693817504638,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693817504651,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693817504668,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693817504674,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693817504763,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693817504770,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693817504785,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693817504790,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693817504796,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693817504802,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693817504806,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693817504811,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693817504824,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693817504852,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693817504864,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693817504874,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693817504895,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693817504901,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693817505092,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693817505103,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693817505106,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693817505154,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693817505170,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693817505282,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693817505282,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693817505282,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693817505291,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693817505291,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693817505291,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693817505526,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693817506160,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693817506160,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693817507910,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693817508400,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693817508477,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693817509843,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693817509843,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"undefined\" debug: connection: creating websocket..."}
+{"level":30,"time":1693817509845,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693817509845,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693817509876,"pid":20044,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"undefined\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693817509877,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"undefined\" disconnected"}
+{"level":20,"time":1693817509878,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"undefined\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693817509891,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693817510732,"pid":20044,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693817988930,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693817990087,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693817990753,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693817990761,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693817991496,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693817998468,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693817998482,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693817998529,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693817998560,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693817998567,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693817998596,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693817998611,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693817998626,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693817998639,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693817998644,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693817998763,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693817998778,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693817998794,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693817998798,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693817998804,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693817998808,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693817998823,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693817998826,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693817998830,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693817998847,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693817998862,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693817998873,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693817998887,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693817998896,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693817999110,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693817999114,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693817999125,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693817999172,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693817999187,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693817999408,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693817999408,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693817999408,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693817999424,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693817999425,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693817999426,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693817999752,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693818000414,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693818000415,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693818003623,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693818004202,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693818004794,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693818006959,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693818006960,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1693818006962,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693818006962,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693818006984,"pid":19452,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693818006988,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1693818006988,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693818007000,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693818007739,"pid":19452,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693818182246,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693818182761,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693818183066,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693818183070,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693818183551,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693818187462,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693818187473,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693818187487,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693818187511,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693818187544,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693818187585,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693818187594,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693818187612,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693818187635,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693818187664,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693818187782,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693818187799,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693818187817,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693818187823,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693818187827,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693818187830,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693818187834,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693818187843,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693818187848,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693818187864,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693818187880,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693818187891,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693818187902,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693818187917,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693818188062,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693818188067,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693818188074,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693818188135,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693818188151,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693818188313,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693818188314,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693818188314,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693818188327,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693818188327,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693818188327,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693818188582,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693818189195,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693818189196,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693818190886,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693818191484,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693818191552,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693818192788,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693818192789,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"1\" debug: connection: creating websocket..."}
+{"level":30,"time":1693818192791,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693818192792,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693818192821,"pid":5040,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"1\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693818192822,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"1\" disconnected"}
+{"level":20,"time":1693818192822,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"1\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693818192834,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693818193593,"pid":5040,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693819493613,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693819493911,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693819494350,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819494358,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819494793,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819498779,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693819498794,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693819498808,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693819498822,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693819498838,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693819498865,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693819498875,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693819498886,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693819498895,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693819498901,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693819498982,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693819498999,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693819499013,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693819499017,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693819499025,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693819499032,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693819499038,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693819499041,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693819499047,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693819499061,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693819499068,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693819499080,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693819499093,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693819499100,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693819499212,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693819499215,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693819499219,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693819499251,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693819499265,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693819499401,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693819499401,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693819499402,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693819499417,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693819499417,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693819499417,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693819499644,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693819500226,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693819500227,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693819502828,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693819503296,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693819503386,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693819504621,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693819504622,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"747679168895910020\" debug: connection: creating websocket..."}
+{"level":30,"time":1693819504624,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693819504624,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693819504647,"pid":20308,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"747679168895910020\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693819504650,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"747679168895910020\" disconnected"}
+{"level":20,"time":1693819504651,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"747679168895910020\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693819504662,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693819505556,"pid":20308,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693819658579,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693819658901,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693819659113,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819659122,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819659555,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819662958,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693819662975,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693819662984,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693819663007,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693819663014,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693819663043,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693819663046,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693819663058,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693819663068,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693819663079,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693819663229,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693819663235,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693819663243,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693819663246,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693819663250,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693819663256,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693819663262,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693819663265,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693819663276,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693819663290,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693819663325,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693819663337,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693819663350,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693819663364,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693819663696,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693819663699,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693819663712,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693819663779,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693819663806,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693819663920,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693819663920,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693819663921,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693819663928,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693819663928,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693819663929,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693819664181,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693819664799,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693819664800,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693819666199,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693819667661,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693819667714,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693819669016,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693819669017,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"default-node\" debug: connection: creating websocket..."}
+{"level":30,"time":1693819669019,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693819669019,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693819669046,"pid":14612,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"default-node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693819669048,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"default-node\" disconnected"}
+{"level":20,"time":1693819669048,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"default-node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693819669058,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693819669830,"pid":14612,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693819892498,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693819892832,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693819893004,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819893008,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819893318,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819895617,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693819895624,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693819895634,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693819895645,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693819895652,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693819895676,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693819895686,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693819895693,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693819895704,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693819895709,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693819895774,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693819895786,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693819895794,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693819895798,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693819895801,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693819895804,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693819895808,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693819895812,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693819895817,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693819895823,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693819895831,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693819895838,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693819895852,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693819895858,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693819895969,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693819895972,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693819895975,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693819896010,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693819896024,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693819896114,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693819896114,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693819896115,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693819896122,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693819896122,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693819896123,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693819896328,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693819896912,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693819896912,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693819897969,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693819903430,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693819903472,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693819904691,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693819904692,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"undefined\" debug: connection: creating websocket..."}
+{"level":30,"time":1693819904693,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693819904693,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693819904714,"pid":13584,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"undefined\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693819904715,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"undefined\" disconnected"}
+{"level":20,"time":1693819904715,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"undefined\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693819904732,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693819905796,"pid":13584,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693819984026,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693819984422,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693819984622,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819984627,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819985022,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693819988362,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693819988368,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693819988394,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693819988412,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693819988419,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693819988451,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693819988456,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693819988464,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693819988475,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693819988487,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693819988568,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693819988575,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693819988583,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693819988588,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693819988593,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693819988596,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693819988599,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693819988603,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693819988608,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693819988616,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693819988623,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693819988631,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693819988642,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693819988647,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693819988759,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693819988762,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693819988765,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693819988807,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693819988818,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693819988955,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693819988955,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693819988955,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693819988988,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693819988989,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693819988989,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693819989221,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693819989831,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693819989831,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693819991438,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693819991917,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693819991975,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693819993193,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693819993193,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"\" debug: connection: creating websocket..."}
+{"level":30,"time":1693819993195,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693819993195,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693819993216,"pid":21156,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693819993218,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"\" disconnected"}
+{"level":20,"time":1693819993218,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693819993232,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693819994039,"pid":21156,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693820120183,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693820120444,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693820120641,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820120646,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820120947,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820123060,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693820123066,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693820123074,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693820123083,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693820123093,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693820123115,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693820123118,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693820123124,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693820123138,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693820123143,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693820123202,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693820123212,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693820123220,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693820123224,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693820123228,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693820123231,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693820123233,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693820123236,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693820123241,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693820123246,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693820123253,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693820123263,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693820123273,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693820123280,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693820123388,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693820123391,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693820123393,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693820123427,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693820123435,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693820123514,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693820123514,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693820123514,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693820123522,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693820123522,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693820123522,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693820123684,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693820124249,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693820124249,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693820125308,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693820127755,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693820127796,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693820128987,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693820128988,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"0\" debug: connection: creating websocket..."}
+{"level":30,"time":1693820128989,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693820128989,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693820129010,"pid":4088,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"0\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693820129011,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"0\" disconnected"}
+{"level":20,"time":1693820129011,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"0\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693820129026,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693820129690,"pid":4088,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693820145460,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693820145708,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693820145871,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820145874,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820146131,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820148440,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693820148446,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693820148454,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693820148467,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693820148472,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693820148490,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693820148493,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693820148506,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693820148514,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693820148518,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693820148573,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693820148580,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693820148587,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693820148591,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693820148594,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693820148597,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693820148600,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693820148603,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693820148611,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693820148617,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693820148624,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693820148629,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693820148637,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693820148642,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693820148729,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693820148733,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693820148758,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693820148797,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693820148808,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693820148879,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693820148879,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693820148880,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693820148886,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693820148886,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693820148886,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693820149050,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693820149601,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693820149601,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693820150578,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693820156765,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693820156816,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693820157955,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693820157955,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" debug: connection: creating websocket..."}
+{"level":30,"time":1693820157957,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693820157957,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693820157977,"pid":10940,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"main\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693820157979,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" disconnected"}
+{"level":20,"time":1693820157979,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693820157994,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693820158817,"pid":10940,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693820251217,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693820251508,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693820251657,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820251661,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820251944,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693820254019,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693820254025,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693820254032,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693820254041,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693820254047,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693820254068,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693820254071,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693820254078,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693820254090,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693820254096,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693820254158,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693820254164,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693820254173,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693820254176,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693820254178,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693820254182,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693820254185,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693820254188,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693820254192,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693820254203,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693820254208,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693820254214,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693820254225,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693820254230,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693820254329,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693820254332,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693820254336,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693820254367,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693820254376,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693820254455,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693820254455,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693820254455,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693820254462,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693820254462,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693820254462,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693820254603,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693820255162,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693820255162,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693820256146,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693820263080,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693820263124,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693820264395,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693820264396,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" debug: connection: creating websocket..."}
+{"level":30,"time":1693820264397,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693820264398,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693820264421,"pid":19596,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"main\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693820264423,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" disconnected"}
+{"level":20,"time":1693820264423,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693820264434,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693820265014,"pid":19596,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
+{"level":30,"time":1693821750846,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Validating config file and environment variables"}
+{"level":30,"time":1693821751077,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loading commands..."}
+{"level":20,"time":1693821751239,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1693821751243,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1693821751500,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1693821753488,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1693821753496,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1693821753502,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1693821753512,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1693821753517,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1693821753539,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1693821753543,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1693821753549,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1693821753559,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1693821753563,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1693821753617,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1693821753624,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1693821753630,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1693821753634,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1693821753637,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1693821753641,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1693821753644,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1693821753648,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1693821753651,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1693821753658,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1693821753665,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1693821753671,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1693821753680,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1693821753685,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1693821753784,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1693821753786,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1693821753792,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1693821753817,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1693821753828,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1693821753909,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 100 commands"}
+{"level":30,"time":1693821753909,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1693821753909,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loading contexts..."}
+{"level":30,"time":1693821753917,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1693821753917,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1693821753917,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loading events..."}
+{"level":30,"time":1693821754075,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1693821754648,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1693821754648,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Launching dashboard"}
+{"level":30,"time":1693821755705,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1693821756089,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1693821756137,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1693821757625,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Logged in as sus bot#1842! (1147904414598844431)"}
+{"level":20,"time":1693821757626,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" debug: connection: creating websocket..."}
+{"level":30,"time":1693821757628,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Music Manager initialized"}
+{"level":30,"time":1693821757628,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1693821757646,"pid":22060,"hostname":"DESKTOP-5TA8EAA","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\discord bots\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\discord bots\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"main\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1693821757647,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" disconnected"}
+{"level":20,"time":1693821757647,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Node \"main\" debug: connection: unable to reconnect"}
+{"level":30,"time":1693821757659,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1693821758353,"pid":22060,"hostname":"DESKTOP-5TA8EAA","msg":"Successfully registered interactions"}
